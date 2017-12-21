@@ -1,0 +1,15 @@
+Go to the local folder which has code and contents to be pushed to the Git repository
+
+e.g. cd "C:\users\axs5965\desktop\devprojects\Courseera-JavascriptHTML"
+
+
+Make a change to a file or add new files
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git push
+
